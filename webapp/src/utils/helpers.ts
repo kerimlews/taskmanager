@@ -1,0 +1,1 @@
+export const getQueryString = (obj: { [key: string]: string }) => Object.keys(obj).map(key => `${obj[key]}=${key}`).join('&')

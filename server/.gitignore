@@ -1,0 +1,10 @@
+node_modules
+dist/
+npm-debug.log
+realm-object-server
+test/sync/.realm/
+coverage
+nodemon.json
+.env
+yarn-error.log
+webview/renderWebview.js
